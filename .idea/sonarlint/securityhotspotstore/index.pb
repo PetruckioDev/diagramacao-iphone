@@ -34,3 +34,5 @@ Q.idea/sonarlint/securityhotspotstore/5/b/5b13e22c76626dfa85e91763a9323079a88736
 Q.idea/sonarlint/securityhotspotstore/7/2/7228e45a0f20791af5805f8c659a50810f9fb951,6/7/672020c25516d559500bd2392884f14c99fd5488
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+G
+diagramacao-iphone1.iml,d/4/d47e1543b9007a594aa0587af70a7013e1fba13d
